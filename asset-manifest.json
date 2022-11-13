@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6383cc33.css",
-    "main.js": "/static/js/main.0214f18b.js",
+    "main.css": "/static/css/main.131b117e.css",
+    "main.js": "/static/js/main.dc5654fb.js",
     "static/media/mypic.jpg": "/static/media/mypic.6fc5f38cbefebbd67463.jpg",
     "static/media/logo.png": "/static/media/logo.e0633ac8d8504c830868.png",
+    "static/media/matlab.png": "/static/media/matlab.6abe414b3a07dd218e99.png",
+    "static/media/python.png": "/static/media/python.ebddd128d5f6b9659464.png",
+    "static/media/css3.png": "/static/media/css3.4e67641bb68b658d9b2b.png",
+    "static/media/cpp.png": "/static/media/cpp.3f8430b31b0960aae7e0.png",
+    "static/media/ros.png": "/static/media/ros.bf18f325f45afc4eeb1b.png",
+    "static/media/node.png": "/static/media/node.b168af064b918341a0a7.png",
+    "static/media/pytorch.png": "/static/media/pytorch.650a4ffdf692d2b53ed2.png",
+    "static/media/django.png": "/static/media/django.82147cd026cc41735e7d.png",
+    "static/media/html5.png": "/static/media/html5.75f4bd59119c8461c00c.png",
     "index.html": "/index.html",
-    "main.6383cc33.css.map": "/static/css/main.6383cc33.css.map",
-    "main.0214f18b.js.map": "/static/js/main.0214f18b.js.map"
+    "main.131b117e.css.map": "/static/css/main.131b117e.css.map",
+    "main.dc5654fb.js.map": "/static/js/main.dc5654fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6383cc33.css",
-    "static/js/main.0214f18b.js"
+    "static/css/main.131b117e.css",
+    "static/js/main.dc5654fb.js"
   ]
 }
