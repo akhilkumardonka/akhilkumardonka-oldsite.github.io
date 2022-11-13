@@ -1,4 +1,3 @@
-import React from 'react';
 function Work({ position, company, location, type, duration }){
     return (
         <div className="work-item">

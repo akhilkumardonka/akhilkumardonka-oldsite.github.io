@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom/client';
 
 // Bootstrap Plugins
 import 'bootstrap/dist/css/bootstrap.min.css';

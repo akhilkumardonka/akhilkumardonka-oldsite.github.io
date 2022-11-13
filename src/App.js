@@ -6,6 +6,7 @@ import About from "./pages/About";
 import Skills from "./pages/Skills";
 
 import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
+import Projects from './pages/Projects';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/" element={<Home/>} />
           <Route path="/about" element={<About />} />
           <Route path="/skills" element={<Skills />} />
+          <Route path="/projects" element={<Projects />} />
         </Routes>
       </div>
       <Footer />
@@ -26,5 +28,3 @@ function App() {
 }
 
 export default App;
-
-// Use HashRouter instead of BrowserRouter incase of Github Pages Deployment

@@ -1,4 +1,3 @@
-import React from 'react';
 import Aboutitem from "../components/Aboutitem";
 import Aboutme from "../components/Aboutme";
 import education from "../data/education";

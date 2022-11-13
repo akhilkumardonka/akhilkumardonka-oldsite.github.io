@@ -1,4 +1,3 @@
-import React from 'react';
 import mypic from "../assets/mypic.jpg";
 import Typingeff from "../components/Typingeff";
 
