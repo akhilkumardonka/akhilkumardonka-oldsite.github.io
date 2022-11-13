@@ -18,7 +18,7 @@ const experience = [
         Company: "Indian Institute of Technology, Bhilai",
         Location: "Raipur, Chhattisgarh",
         Duration: "May 2019 - July-2019",
-        Type: "Worked in the area of RF Energy Harvesting, explored various rectifier designs and published our work in IEEE ANTS 2019 Conference."
+        Type: "Worked in the area of RF Energy Harvesting, explored various rectifier designs and published our work at IEEE ANTS 2019 Conference."
     },
   ];
   

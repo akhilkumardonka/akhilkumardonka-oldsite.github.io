@@ -1,3 +1,4 @@
+import React from 'react';
 import Typed from "typed.js";
 import { useEffect, useRef } from "react";
 
